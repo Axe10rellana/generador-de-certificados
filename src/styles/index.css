@@ -1,0 +1,11 @@
+.no-resize {
+  resize: none;
+}
+
+.pointer-events-none{
+  pointer-events: none;
+}
+
+.select-none{
+  user-select: none;
+}
